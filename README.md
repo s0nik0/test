@@ -1,5 +1,7 @@
 # test
 
+☆　☆　☆　☆　☆　☆
+
 hello, hello.
 
 this is the place to practice how to use GitHub.
@@ -11,3 +13,5 @@ nothing fun here
 yet
 
 wait, wait.
+
+☆　☆　☆　☆　☆　☆
